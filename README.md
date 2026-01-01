@@ -12,7 +12,7 @@ Rows: ~250 transactions
 
 Time Range: YYYY-MM-DD to YYYY-MM-DD
 
-Key Columns:
+### Key Columns: ###
 - order_id, order_date, order_status
   
 - customer_id, customer_name, customer_segment
@@ -21,7 +21,7 @@ Key Columns:
 
 - quantity, unit_price, discount_pct
 
-##SQL Techniques Used##
+### SQL Techniques Used ###
 
 - Aggregate functions (SUM, AVG, COUNT, MIN, MAX)
 
@@ -35,7 +35,7 @@ Key Columns:
 
 - Business logic filtering (completed vs cancelled orders)
 
-##Key Findings##
+## Key Findings ##
 
 - Revenue is highly concentrated among a small subset of customers, with top customers contributing a disproportionate share of total net revenue. This could also be slightly skewed due to the fact that there are only 10 distinct customers in the dataset.
 
