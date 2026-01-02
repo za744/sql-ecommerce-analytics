@@ -54,6 +54,8 @@ Time Range: YYYY-MM-DD to YYYY-MM-DD
 ![Average Discount by Category](screenshots/discount_percentage.png)
 
 - Average order values are similar across customer segments, with Standard customers showing a slightly higher average order value than Premium customers. This suggests that while segmentation exists, spending behavior per order does not differ as much as expected between segments.
+- 
+![Average Order Value by Customer Level](screenshots/revenue_by_level.png)
 
 - Revenue shows noticeable variation over time, pointing to potential seasonality.
 
@@ -61,5 +63,5 @@ Time Range: YYYY-MM-DD to YYYY-MM-DD
 
 - Repeat customers represent an important source of revenue, highlighting the value of retention strategies.
 
-![Repeat Customer Revenue](screenshots/revenue_by_customer.png)
+![Repeat Customer Revenue](screenshots/revenue_by_customer_repeats.png)
 
