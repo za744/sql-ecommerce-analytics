@@ -46,12 +46,11 @@ Time Range: YYYY-MM-DD to YYYY-MM-DD
 ![Revenue by Category](screenshots/revenue_by_category.png)
 
 - Discounting has a clear and measurable impact on revenue.
-  -Gross revenue (pre-discount): $260,150
-  -Net revenue (post-discount): $237,887.45
-  -Revenue lost to discounts: $22,262.50
+  - Gross revenue (pre-discount): $260,150
+  - Net revenue (post-discount): $237,887.45
+  - Revenue lost to discounts: $22,262.50
 
   - Discounts clearly affect revenue, with Electronics having a higher average discount (about 8.5%) compared to Furniture (about 7.9%). Since Electronics products also tend to have higher prices, this category ends up losing more revenue from discounts overall. This suggests there may be room to improve how        discounts are applied across different categories.
-  - 
 ![Average Discount by Category](screenshots/discount_percentage.png)
 
 - Average order values are similar across customer segments, with Standard customers showing a slightly higher average order value than Premium customers. This suggests that while segmentation exists, spending behavior per order does not differ as much as expected between segments.
