@@ -1,0 +1,251 @@
+order_id,order_date,order_month,customer_id,customer_name,customer_segment,country,product_id,product_name,category,quantity,unit_price,discount_pct,shipping_cost,order_status,payment_method,device_type,fulfillment_days
+2001,2023-04-14,2023-04,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,3,1200,0.1,15,Completed,Debit Card,Desktop,7.0
+2002,2023-06-17,2023-06,10,Jack Wilson,Standard,USA,104,Desk,Furniture,1,450,0.0,0,Completed,Credit Card,Desktop,6.0
+2003,2023-04-21,2023-04,9,Ivy Chen,Premium,Taiwan,104,Desk,Furniture,1,450,0.15,30,Completed,Debit Card,Mobile,2.0
+2004,2023-05-19,2023-05,6,Frank Miller,Standard,USA,103,Office Chair,Furniture,1,300,0.05,40,Completed,Credit Card,Mobile,2.0
+2005,2023-05-19,2023-05,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,2,800,0.0,35,Completed,Credit Card,Mobile,2.0
+2006,2023-04-30,2023-04,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,3,300,0.05,35,Completed,PayPal,Desktop,7.0
+2007,2023-04-21,2023-04,4,Daniel Lee,Standard,USA,101,Laptop,Electronics,2,1200,0.1,25,Completed,PayPal,Mobile,4.0
+2008,2023-05-02,2023-05,4,Daniel Lee,Standard,USA,103,Office Chair,Furniture,3,300,0.0,30,Completed,Credit Card,Mobile,6.0
+2009,2023-04-30,2023-04,7,Grace Kim,Premium,South Korea,103,Office Chair,Furniture,3,300,0.05,35,Completed,Credit Card,Mobile,2.0
+2010,2023-04-28,2023-04,7,Grace Kim,Premium,South Korea,103,Office Chair,Furniture,1,300,0.05,30,Completed,Debit Card,Mobile,4.0
+2011,2023-06-08,2023-06,7,Grace Kim,Premium,South Korea,104,Desk,Furniture,1,450,0.1,15,Completed,PayPal,Mobile,6.0
+2012,2023-04-07,2023-04,10,Jack Wilson,Standard,USA,104,Desk,Furniture,2,450,0.05,15,Completed,Credit Card,Desktop,2.0
+2013,2023-06-07,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.0,25,Completed,PayPal,Desktop,5.0
+2014,2023-05-29,2023-05,2,Bob Smith,Standard,Canada,105,Smartphone,Electronics,2,800,0.1,0,Completed,Credit Card,Mobile,3.0
+2015,2023-06-04,2023-06,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,3,150,0.0,40,Completed,Debit Card,Desktop,7.0
+2016,2023-04-15,2023-04,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,1,300,0.0,30,Completed,PayPal,Mobile,2.0
+2017,2023-06-08,2023-06,4,Daniel Lee,Standard,USA,101,Laptop,Electronics,1,1200,0.0,0,Completed,Credit Card,Desktop,2.0
+2018,2023-04-28,2023-04,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,1,800,0.1,30,Completed,Debit Card,Desktop,5.0
+2019,2023-04-16,2023-04,5,Emma Brown,Premium,UK,104,Desk,Furniture,3,450,0.1,25,Completed,Credit Card,Desktop,5.0
+2020,2023-06-30,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,1,300,0.05,30,Completed,Debit Card,Desktop,2.0
+2021,2023-06-25,2023-06,4,Daniel Lee,Standard,USA,101,Laptop,Electronics,1,1200,0.1,0,Completed,PayPal,Desktop,4.0
+2022,2023-04-25,2023-04,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,3,150,0.15,15,Completed,Credit Card,Desktop,5.0
+2023,2023-06-26,2023-06,7,Grace Kim,Premium,South Korea,103,Office Chair,Furniture,2,300,0.15,25,Completed,Debit Card,Desktop,2.0
+2024,2023-04-25,2023-04,1,Alice Johnson,Premium,USA,104,Desk,Furniture,3,450,0.1,40,Completed,Credit Card,Mobile,3.0
+2025,2023-05-27,2023-05,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,1,450,0.1,25,Completed,Debit Card,Desktop,2.0
+2026,2023-05-23,2023-05,1,Alice Johnson,Premium,USA,105,Smartphone,Electronics,1,800,0.0,40,Completed,PayPal,Mobile,3.0
+2027,2023-05-04,2023-05,4,Daniel Lee,Standard,USA,104,Desk,Furniture,1,450,0.05,25,Completed,PayPal,Mobile,5.0
+2028,2023-04-08,2023-04,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,3,800,0.15,15,Completed,Debit Card,Desktop,3.0
+2029,2023-06-07,2023-06,6,Frank Miller,Standard,USA,101,Laptop,Electronics,1,1200,0.15,30,Cancelled,Credit Card,Desktop,
+2030,2023-05-22,2023-05,9,Ivy Chen,Premium,Taiwan,101,Laptop,Electronics,1,1200,0.0,30,Completed,Credit Card,Desktop,3.0
+2031,2023-06-06,2023-06,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,1,800,0.0,25,Completed,PayPal,Mobile,6.0
+2032,2023-05-09,2023-05,4,Daniel Lee,Standard,USA,103,Office Chair,Furniture,1,300,0.1,25,Completed,PayPal,Mobile,7.0
+2033,2023-05-04,2023-05,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,2,1200,0.0,0,Completed,Credit Card,Mobile,6.0
+2034,2023-06-30,2023-06,2,Bob Smith,Standard,Canada,102,Headphones,Electronics,2,150,0.1,15,Completed,PayPal,Desktop,6.0
+2035,2023-06-10,2023-06,9,Ivy Chen,Premium,Taiwan,103,Office Chair,Furniture,3,300,0.0,15,Completed,Credit Card,Mobile,2.0
+2036,2023-06-04,2023-06,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,1,800,0.1,15,Completed,PayPal,Mobile,4.0
+2037,2023-05-13,2023-05,1,Alice Johnson,Premium,USA,101,Laptop,Electronics,3,1200,0.15,40,Completed,Credit Card,Mobile,2.0
+2038,2023-06-28,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.15,30,Completed,Credit Card,Desktop,2.0
+2039,2023-05-17,2023-05,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,3,800,0.05,25,Completed,Credit Card,Mobile,4.0
+2040,2023-06-19,2023-06,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,3,150,0.0,20,Completed,Debit Card,Desktop,5.0
+2041,2023-05-23,2023-05,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,1,150,0.15,0,Completed,Debit Card,Desktop,4.0
+2042,2023-04-29,2023-04,5,Emma Brown,Premium,UK,102,Headphones,Electronics,3,150,0.0,25,Completed,Credit Card,Mobile,5.0
+2043,2023-05-13,2023-05,6,Frank Miller,Standard,USA,103,Office Chair,Furniture,1,300,0.05,0,Completed,PayPal,Desktop,5.0
+2044,2023-06-08,2023-06,5,Emma Brown,Premium,UK,103,Office Chair,Furniture,3,300,0.15,35,Cancelled,PayPal,Desktop,
+2045,2023-05-15,2023-05,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,1,300,0.1,0,Completed,Debit Card,Mobile,5.0
+2046,2023-05-03,2023-05,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,3,800,0.0,25,Completed,Credit Card,Mobile,3.0
+2047,2023-05-13,2023-05,1,Alice Johnson,Premium,USA,105,Smartphone,Electronics,3,800,0.05,20,Completed,Debit Card,Mobile,7.0
+2048,2023-06-29,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,3,300,0.1,35,Completed,PayPal,Desktop,5.0
+2049,2023-06-18,2023-06,4,Daniel Lee,Standard,USA,104,Desk,Furniture,3,450,0.15,35,Completed,Debit Card,Mobile,3.0
+2050,2023-06-17,2023-06,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,1,800,0.1,20,Completed,Debit Card,Mobile,6.0
+2051,2023-04-22,2023-04,8,Hassan Ali,Standard,UAE,104,Desk,Furniture,2,450,0.05,30,Completed,Debit Card,Desktop,7.0
+2052,2023-06-26,2023-06,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,3,800,0.1,0,Completed,PayPal,Desktop,3.0
+2053,2023-06-18,2023-06,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,1,150,0.0,15,Cancelled,Credit Card,Mobile,
+2054,2023-06-23,2023-06,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,1,800,0.15,25,Completed,Debit Card,Desktop,3.0
+2055,2023-06-06,2023-06,2,Bob Smith,Standard,Canada,104,Desk,Furniture,1,450,0.05,40,Cancelled,PayPal,Desktop,
+2056,2023-06-07,2023-06,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,1,150,0.15,15,Completed,Debit Card,Mobile,7.0
+2057,2023-05-28,2023-05,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,3,800,0.15,40,Cancelled,Credit Card,Mobile,
+2058,2023-06-20,2023-06,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,1,300,0.1,40,Completed,Credit Card,Mobile,5.0
+2059,2023-06-09,2023-06,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,3,1200,0.1,15,Completed,Credit Card,Desktop,4.0
+2060,2023-05-23,2023-05,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,2,150,0.05,35,Completed,PayPal,Mobile,5.0
+2061,2023-06-14,2023-06,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,1,1200,0.15,25,Cancelled,Debit Card,Desktop,
+2062,2023-05-24,2023-05,10,Jack Wilson,Standard,USA,104,Desk,Furniture,2,450,0.0,20,Completed,Debit Card,Desktop,5.0
+2063,2023-06-25,2023-06,8,Hassan Ali,Standard,UAE,102,Headphones,Electronics,2,150,0.15,25,Completed,Debit Card,Mobile,4.0
+2064,2023-04-04,2023-04,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,1,450,0.0,25,Completed,Credit Card,Mobile,7.0
+2065,2023-05-29,2023-05,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,1,450,0.0,20,Completed,PayPal,Mobile,3.0
+2066,2023-06-09,2023-06,7,Grace Kim,Premium,South Korea,103,Office Chair,Furniture,2,300,0.1,40,Completed,Credit Card,Mobile,2.0
+2067,2023-04-26,2023-04,4,Daniel Lee,Standard,USA,101,Laptop,Electronics,3,1200,0.0,40,Completed,Credit Card,Desktop,3.0
+2068,2023-05-30,2023-05,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,2,150,0.0,30,Cancelled,Debit Card,Mobile,
+2069,2023-04-14,2023-04,6,Frank Miller,Standard,USA,102,Headphones,Electronics,3,150,0.0,40,Completed,Debit Card,Desktop,4.0
+2070,2023-04-26,2023-04,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,3,800,0.15,25,Cancelled,Credit Card,Desktop,
+2071,2023-04-06,2023-04,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,3,300,0.0,40,Cancelled,PayPal,Mobile,
+2072,2023-04-14,2023-04,6,Frank Miller,Standard,USA,101,Laptop,Electronics,3,1200,0.1,0,Completed,PayPal,Mobile,5.0
+2073,2023-05-05,2023-05,8,Hassan Ali,Standard,UAE,102,Headphones,Electronics,2,150,0.05,35,Completed,Debit Card,Mobile,7.0
+2074,2023-05-06,2023-05,8,Hassan Ali,Standard,UAE,104,Desk,Furniture,3,450,0.1,20,Completed,PayPal,Desktop,2.0
+2075,2023-04-24,2023-04,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,3,800,0.15,20,Completed,PayPal,Desktop,4.0
+2076,2023-06-11,2023-06,6,Frank Miller,Standard,USA,103,Office Chair,Furniture,2,300,0.1,30,Completed,Credit Card,Desktop,4.0
+2077,2023-06-28,2023-06,2,Bob Smith,Standard,Canada,102,Headphones,Electronics,3,150,0.15,25,Completed,PayPal,Mobile,3.0
+2078,2023-05-10,2023-05,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,1,1200,0.1,15,Completed,Debit Card,Mobile,3.0
+2079,2023-06-10,2023-06,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,3,800,0.1,25,Cancelled,PayPal,Mobile,
+2080,2023-05-11,2023-05,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,2,300,0.1,15,Completed,Credit Card,Desktop,3.0
+2081,2023-06-16,2023-06,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,3,150,0.15,20,Completed,PayPal,Desktop,6.0
+2082,2023-06-08,2023-06,4,Daniel Lee,Standard,USA,103,Office Chair,Furniture,1,300,0.1,15,Completed,Credit Card,Mobile,7.0
+2083,2023-06-21,2023-06,1,Alice Johnson,Premium,USA,101,Laptop,Electronics,3,1200,0.1,35,Cancelled,PayPal,Desktop,
+2084,2023-04-07,2023-04,1,Alice Johnson,Premium,USA,105,Smartphone,Electronics,2,800,0.15,25,Completed,PayPal,Mobile,3.0
+2085,2023-04-07,2023-04,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,2,1200,0.15,0,Completed,Credit Card,Desktop,7.0
+2086,2023-06-17,2023-06,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,1,300,0.05,0,Completed,Debit Card,Desktop,5.0
+2087,2023-05-10,2023-05,9,Ivy Chen,Premium,Taiwan,104,Desk,Furniture,2,450,0.15,20,Completed,Debit Card,Desktop,5.0
+2088,2023-05-01,2023-05,10,Jack Wilson,Standard,USA,101,Laptop,Electronics,1,1200,0.05,20,Completed,Credit Card,Desktop,3.0
+2089,2023-04-05,2023-04,3,Carla Gomez,Standard,Mexico,101,Laptop,Electronics,2,1200,0.15,35,Completed,Credit Card,Mobile,4.0
+2090,2023-06-15,2023-06,5,Emma Brown,Premium,UK,104,Desk,Furniture,1,450,0.05,20,Completed,Debit Card,Desktop,7.0
+2091,2023-04-19,2023-04,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,3,1200,0.05,35,Completed,Credit Card,Desktop,4.0
+2092,2023-05-09,2023-05,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,3,300,0.1,25,Completed,Debit Card,Mobile,7.0
+2093,2023-05-26,2023-05,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,3,800,0.15,25,Completed,Debit Card,Mobile,2.0
+2094,2023-06-13,2023-06,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,1,300,0.0,15,Cancelled,Debit Card,Desktop,
+2095,2023-05-06,2023-05,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,1,800,0.05,25,Completed,Credit Card,Mobile,5.0
+2096,2023-04-14,2023-04,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,2,1200,0.1,25,Completed,Credit Card,Mobile,7.0
+2097,2023-05-29,2023-05,7,Grace Kim,Premium,South Korea,104,Desk,Furniture,2,450,0.15,40,Completed,Credit Card,Mobile,2.0
+2098,2023-06-24,2023-06,5,Emma Brown,Premium,UK,103,Office Chair,Furniture,1,300,0.15,40,Completed,Debit Card,Mobile,2.0
+2099,2023-05-27,2023-05,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,1,1200,0.1,30,Completed,Credit Card,Desktop,7.0
+2100,2023-04-16,2023-04,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,1,800,0.1,25,Completed,Credit Card,Desktop,5.0
+2101,2023-04-15,2023-04,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,3,300,0.0,30,Completed,PayPal,Desktop,3.0
+2102,2023-06-01,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.1,30,Completed,PayPal,Desktop,5.0
+2103,2023-06-05,2023-06,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,1,800,0.15,15,Cancelled,Debit Card,Desktop,
+2104,2023-05-07,2023-05,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,2,300,0.1,40,Completed,Debit Card,Mobile,2.0
+2105,2023-06-01,2023-06,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,3,800,0.15,40,Completed,PayPal,Mobile,6.0
+2106,2023-05-01,2023-05,9,Ivy Chen,Premium,Taiwan,105,Smartphone,Electronics,2,800,0.15,20,Completed,Debit Card,Mobile,7.0
+2107,2023-05-20,2023-05,4,Daniel Lee,Standard,USA,104,Desk,Furniture,1,450,0.1,35,Completed,Debit Card,Desktop,5.0
+2108,2023-04-13,2023-04,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,1,1200,0.1,40,Completed,Debit Card,Mobile,5.0
+2109,2023-05-14,2023-05,1,Alice Johnson,Premium,USA,102,Headphones,Electronics,2,150,0.05,0,Completed,Debit Card,Mobile,4.0
+2110,2023-06-09,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,3,300,0.15,20,Completed,Credit Card,Desktop,5.0
+2111,2023-06-21,2023-06,4,Daniel Lee,Standard,USA,103,Office Chair,Furniture,1,300,0.0,25,Cancelled,Debit Card,Desktop,
+2112,2023-05-08,2023-05,8,Hassan Ali,Standard,UAE,102,Headphones,Electronics,3,150,0.1,0,Completed,PayPal,Mobile,2.0
+2113,2023-04-22,2023-04,7,Grace Kim,Premium,South Korea,102,Headphones,Electronics,1,150,0.15,30,Completed,Credit Card,Desktop,3.0
+2114,2023-04-19,2023-04,10,Jack Wilson,Standard,USA,104,Desk,Furniture,3,450,0.05,25,Cancelled,Credit Card,Mobile,
+2115,2023-06-26,2023-06,5,Emma Brown,Premium,UK,104,Desk,Furniture,2,450,0.0,40,Completed,Debit Card,Desktop,4.0
+2116,2023-06-28,2023-06,2,Bob Smith,Standard,Canada,104,Desk,Furniture,2,450,0.1,35,Cancelled,PayPal,Mobile,
+2117,2023-05-16,2023-05,5,Emma Brown,Premium,UK,102,Headphones,Electronics,2,150,0.15,0,Completed,Debit Card,Mobile,6.0
+2118,2023-04-07,2023-04,5,Emma Brown,Premium,UK,101,Laptop,Electronics,3,1200,0.15,20,Completed,Debit Card,Mobile,7.0
+2119,2023-05-03,2023-05,5,Emma Brown,Premium,UK,102,Headphones,Electronics,3,150,0.1,15,Completed,Debit Card,Desktop,6.0
+2120,2023-04-17,2023-04,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,2,1200,0.15,0,Completed,Credit Card,Mobile,7.0
+2121,2023-06-07,2023-06,6,Frank Miller,Standard,USA,104,Desk,Furniture,1,450,0.05,15,Completed,Debit Card,Mobile,4.0
+2122,2023-05-30,2023-05,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,2,300,0.1,35,Completed,Credit Card,Desktop,2.0
+2123,2023-05-04,2023-05,4,Daniel Lee,Standard,USA,104,Desk,Furniture,3,450,0.1,0,Completed,Debit Card,Desktop,2.0
+2124,2023-05-18,2023-05,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,3,300,0.1,30,Completed,Credit Card,Desktop,7.0
+2125,2023-06-21,2023-06,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,3,1200,0.1,30,Completed,PayPal,Mobile,2.0
+2126,2023-04-15,2023-04,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,1,1200,0.0,0,Completed,Credit Card,Desktop,5.0
+2127,2023-06-29,2023-06,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,2,150,0.15,20,Completed,Debit Card,Mobile,7.0
+2128,2023-05-06,2023-05,10,Jack Wilson,Standard,USA,102,Headphones,Electronics,2,150,0.0,40,Completed,Credit Card,Mobile,5.0
+2129,2023-05-18,2023-05,4,Daniel Lee,Standard,USA,104,Desk,Furniture,2,450,0.05,40,Completed,Debit Card,Mobile,7.0
+2130,2023-05-29,2023-05,1,Alice Johnson,Premium,USA,104,Desk,Furniture,2,450,0.05,0,Cancelled,Credit Card,Desktop,
+2131,2023-06-12,2023-06,10,Jack Wilson,Standard,USA,101,Laptop,Electronics,1,1200,0.1,15,Cancelled,Credit Card,Desktop,
+2132,2023-04-19,2023-04,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,3,150,0.05,40,Completed,Debit Card,Desktop,4.0
+2133,2023-04-04,2023-04,5,Emma Brown,Premium,UK,102,Headphones,Electronics,1,150,0.1,40,Completed,Credit Card,Desktop,7.0
+2134,2023-04-17,2023-04,6,Frank Miller,Standard,USA,102,Headphones,Electronics,3,150,0.1,0,Completed,Debit Card,Mobile,2.0
+2135,2023-06-05,2023-06,9,Ivy Chen,Premium,Taiwan,101,Laptop,Electronics,3,1200,0.0,25,Completed,Debit Card,Desktop,4.0
+2136,2023-06-06,2023-06,8,Hassan Ali,Standard,UAE,105,Smartphone,Electronics,1,800,0.0,35,Completed,PayPal,Mobile,7.0
+2137,2023-05-27,2023-05,1,Alice Johnson,Premium,USA,101,Laptop,Electronics,2,1200,0.15,25,Completed,Credit Card,Desktop,5.0
+2138,2023-06-14,2023-06,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,1,800,0.0,15,Completed,Debit Card,Mobile,7.0
+2139,2023-04-13,2023-04,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,3,800,0.1,25,Completed,Debit Card,Desktop,5.0
+2140,2023-05-22,2023-05,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,2,150,0.15,15,Completed,PayPal,Desktop,5.0
+2141,2023-06-27,2023-06,6,Frank Miller,Standard,USA,104,Desk,Furniture,2,450,0.1,20,Cancelled,PayPal,Desktop,
+2142,2023-04-17,2023-04,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,1,1200,0.15,0,Completed,Debit Card,Desktop,4.0
+2143,2023-06-25,2023-06,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,3,800,0.1,35,Completed,PayPal,Desktop,4.0
+2144,2023-04-20,2023-04,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,2,800,0.1,0,Completed,Debit Card,Mobile,3.0
+2145,2023-04-29,2023-04,4,Daniel Lee,Standard,USA,101,Laptop,Electronics,2,1200,0.1,0,Completed,PayPal,Desktop,6.0
+2146,2023-05-14,2023-05,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,1,300,0.05,20,Completed,PayPal,Desktop,4.0
+2147,2023-04-04,2023-04,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,3,150,0.15,0,Completed,Credit Card,Desktop,7.0
+2148,2023-05-12,2023-05,7,Grace Kim,Premium,South Korea,104,Desk,Furniture,2,450,0.1,15,Completed,Debit Card,Desktop,7.0
+2149,2023-06-24,2023-06,1,Alice Johnson,Premium,USA,102,Headphones,Electronics,1,150,0.0,35,Completed,PayPal,Mobile,5.0
+2150,2023-05-15,2023-05,10,Jack Wilson,Standard,USA,104,Desk,Furniture,2,450,0.1,15,Completed,PayPal,Desktop,2.0
+2151,2023-04-08,2023-04,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,2,800,0.1,0,Completed,Credit Card,Desktop,6.0
+2152,2023-06-03,2023-06,5,Emma Brown,Premium,UK,102,Headphones,Electronics,1,150,0.1,20,Completed,Debit Card,Mobile,2.0
+2153,2023-05-16,2023-05,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,2,150,0.05,30,Completed,Credit Card,Mobile,7.0
+2154,2023-05-25,2023-05,1,Alice Johnson,Premium,USA,104,Desk,Furniture,1,450,0.15,0,Completed,Debit Card,Mobile,6.0
+2155,2023-04-22,2023-04,7,Grace Kim,Premium,South Korea,103,Office Chair,Furniture,1,300,0.15,0,Cancelled,Debit Card,Mobile,
+2156,2023-06-07,2023-06,6,Frank Miller,Standard,USA,101,Laptop,Electronics,2,1200,0.0,15,Completed,Credit Card,Mobile,5.0
+2157,2023-06-21,2023-06,5,Emma Brown,Premium,UK,103,Office Chair,Furniture,1,300,0.1,40,Completed,Credit Card,Desktop,6.0
+2158,2023-04-26,2023-04,6,Frank Miller,Standard,USA,103,Office Chair,Furniture,3,300,0.05,15,Completed,Credit Card,Desktop,4.0
+2159,2023-05-28,2023-05,2,Bob Smith,Standard,Canada,102,Headphones,Electronics,3,150,0.15,25,Completed,Debit Card,Mobile,6.0
+2160,2023-05-06,2023-05,6,Frank Miller,Standard,USA,102,Headphones,Electronics,2,150,0.0,25,Completed,Debit Card,Desktop,4.0
+2161,2023-05-18,2023-05,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,1,800,0.1,25,Completed,PayPal,Desktop,2.0
+2162,2023-04-06,2023-04,2,Bob Smith,Standard,Canada,105,Smartphone,Electronics,3,800,0.15,25,Completed,PayPal,Desktop,7.0
+2163,2023-04-11,2023-04,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,2,800,0.05,0,Completed,Debit Card,Desktop,4.0
+2164,2023-04-21,2023-04,1,Alice Johnson,Premium,USA,102,Headphones,Electronics,3,150,0.15,25,Completed,PayPal,Mobile,6.0
+2165,2023-06-22,2023-06,5,Emma Brown,Premium,UK,104,Desk,Furniture,2,450,0.1,35,Completed,PayPal,Desktop,7.0
+2166,2023-06-17,2023-06,6,Frank Miller,Standard,USA,101,Laptop,Electronics,3,1200,0.15,20,Completed,Credit Card,Mobile,7.0
+2167,2023-06-29,2023-06,2,Bob Smith,Standard,Canada,105,Smartphone,Electronics,3,800,0.05,20,Completed,Debit Card,Mobile,7.0
+2168,2023-05-13,2023-05,3,Carla Gomez,Standard,Mexico,105,Smartphone,Electronics,3,800,0.0,20,Completed,Credit Card,Desktop,7.0
+2169,2023-05-14,2023-05,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,2,800,0.0,20,Completed,PayPal,Desktop,3.0
+2170,2023-06-04,2023-06,4,Daniel Lee,Standard,USA,102,Headphones,Electronics,1,150,0.0,20,Completed,Debit Card,Desktop,2.0
+2171,2023-06-19,2023-06,6,Frank Miller,Standard,USA,105,Smartphone,Electronics,1,800,0.15,15,Completed,Credit Card,Mobile,7.0
+2172,2023-05-28,2023-05,1,Alice Johnson,Premium,USA,104,Desk,Furniture,2,450,0.05,25,Completed,Credit Card,Desktop,7.0
+2173,2023-05-27,2023-05,5,Emma Brown,Premium,UK,104,Desk,Furniture,1,450,0.1,35,Cancelled,PayPal,Mobile,
+2174,2023-04-18,2023-04,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,3,800,0.15,15,Completed,PayPal,Desktop,6.0
+2175,2023-05-07,2023-05,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,3,300,0.0,35,Completed,Credit Card,Desktop,2.0
+2176,2023-05-28,2023-05,5,Emma Brown,Premium,UK,104,Desk,Furniture,3,450,0.05,40,Completed,PayPal,Desktop,3.0
+2177,2023-05-18,2023-05,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,2,1200,0.1,15,Completed,Credit Card,Desktop,2.0
+2178,2023-05-07,2023-05,6,Frank Miller,Standard,USA,101,Laptop,Electronics,3,1200,0.1,40,Completed,PayPal,Desktop,2.0
+2179,2023-04-20,2023-04,8,Hassan Ali,Standard,UAE,104,Desk,Furniture,3,450,0.0,0,Completed,Debit Card,Mobile,3.0
+2180,2023-06-21,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,1,300,0.1,0,Completed,Debit Card,Mobile,5.0
+2181,2023-04-19,2023-04,2,Bob Smith,Standard,Canada,101,Laptop,Electronics,2,1200,0.0,35,Completed,PayPal,Mobile,3.0
+2182,2023-06-25,2023-06,1,Alice Johnson,Premium,USA,105,Smartphone,Electronics,2,800,0.05,30,Completed,Credit Card,Mobile,7.0
+2183,2023-06-21,2023-06,2,Bob Smith,Standard,Canada,105,Smartphone,Electronics,3,800,0.0,25,Completed,PayPal,Mobile,2.0
+2184,2023-06-20,2023-06,5,Emma Brown,Premium,UK,101,Laptop,Electronics,2,1200,0.0,20,Completed,Credit Card,Mobile,7.0
+2185,2023-05-30,2023-05,3,Carla Gomez,Standard,Mexico,101,Laptop,Electronics,2,1200,0.1,40,Completed,Debit Card,Mobile,7.0
+2186,2023-04-26,2023-04,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,1,150,0.15,0,Completed,Credit Card,Mobile,2.0
+2187,2023-04-25,2023-04,5,Emma Brown,Premium,UK,105,Smartphone,Electronics,2,800,0.15,20,Completed,PayPal,Mobile,7.0
+2188,2023-05-27,2023-05,1,Alice Johnson,Premium,USA,103,Office Chair,Furniture,2,300,0.0,40,Completed,PayPal,Mobile,5.0
+2189,2023-06-06,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.15,20,Cancelled,PayPal,Desktop,
+2190,2023-04-11,2023-04,7,Grace Kim,Premium,South Korea,101,Laptop,Electronics,2,1200,0.05,30,Completed,PayPal,Mobile,2.0
+2191,2023-05-28,2023-05,5,Emma Brown,Premium,UK,104,Desk,Furniture,3,450,0.15,15,Completed,Credit Card,Mobile,4.0
+2192,2023-05-17,2023-05,10,Jack Wilson,Standard,USA,104,Desk,Furniture,2,450,0.0,0,Completed,Debit Card,Desktop,5.0
+2193,2023-06-22,2023-06,1,Alice Johnson,Premium,USA,102,Headphones,Electronics,3,150,0.15,0,Completed,PayPal,Mobile,3.0
+2194,2023-05-18,2023-05,7,Grace Kim,Premium,South Korea,105,Smartphone,Electronics,1,800,0.05,35,Completed,PayPal,Desktop,4.0
+2195,2023-05-02,2023-05,10,Jack Wilson,Standard,USA,102,Headphones,Electronics,3,150,0.1,25,Completed,Credit Card,Desktop,4.0
+2196,2023-06-30,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.15,30,Completed,PayPal,Desktop,4.0
+2197,2023-05-28,2023-05,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,3,300,0.15,15,Completed,Credit Card,Mobile,2.0
+2198,2023-05-08,2023-05,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,3,300,0.1,35,Completed,PayPal,Desktop,6.0
+2199,2023-04-18,2023-04,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,3,300,0.05,0,Cancelled,Credit Card,Mobile,
+2200,2023-04-17,2023-04,1,Alice Johnson,Premium,USA,103,Office Chair,Furniture,3,300,0.1,25,Completed,Debit Card,Desktop,6.0
+2201,2023-06-13,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,2,300,0.15,30,Completed,Credit Card,Desktop,5.0
+2202,2023-06-10,2023-06,6,Frank Miller,Standard,USA,101,Laptop,Electronics,2,1200,0.15,35,Completed,Debit Card,Desktop,3.0
+2203,2023-05-09,2023-05,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.0,40,Completed,Credit Card,Desktop,3.0
+2204,2023-06-21,2023-06,6,Frank Miller,Standard,USA,102,Headphones,Electronics,2,150,0.1,40,Completed,Debit Card,Mobile,3.0
+2205,2023-06-14,2023-06,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,3,300,0.0,30,Completed,Credit Card,Desktop,6.0
+2206,2023-04-06,2023-04,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,2,800,0.0,40,Completed,Debit Card,Mobile,2.0
+2207,2023-05-08,2023-05,4,Daniel Lee,Standard,USA,105,Smartphone,Electronics,2,800,0.0,25,Completed,Debit Card,Mobile,6.0
+2208,2023-04-08,2023-04,8,Hassan Ali,Standard,UAE,102,Headphones,Electronics,3,150,0.15,20,Completed,Credit Card,Mobile,7.0
+2209,2023-05-11,2023-05,7,Grace Kim,Premium,South Korea,104,Desk,Furniture,2,450,0.05,20,Completed,Debit Card,Mobile,4.0
+2210,2023-05-05,2023-05,7,Grace Kim,Premium,South Korea,102,Headphones,Electronics,2,150,0.0,20,Completed,PayPal,Desktop,2.0
+2211,2023-05-02,2023-05,3,Carla Gomez,Standard,Mexico,101,Laptop,Electronics,1,1200,0.1,25,Completed,Credit Card,Mobile,5.0
+2212,2023-05-30,2023-05,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,1,300,0.05,25,Cancelled,PayPal,Mobile,
+2213,2023-04-28,2023-04,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,1,1200,0.15,30,Completed,Debit Card,Mobile,3.0
+2214,2023-06-26,2023-06,1,Alice Johnson,Premium,USA,101,Laptop,Electronics,2,1200,0.15,30,Completed,PayPal,Mobile,7.0
+2215,2023-05-17,2023-05,9,Ivy Chen,Premium,Taiwan,101,Laptop,Electronics,1,1200,0.15,15,Completed,PayPal,Mobile,7.0
+2216,2023-05-20,2023-05,1,Alice Johnson,Premium,USA,104,Desk,Furniture,1,450,0.05,20,Completed,Debit Card,Mobile,2.0
+2217,2023-05-21,2023-05,9,Ivy Chen,Premium,Taiwan,103,Office Chair,Furniture,3,300,0.0,15,Cancelled,PayPal,Mobile,
+2218,2023-04-06,2023-04,9,Ivy Chen,Premium,Taiwan,103,Office Chair,Furniture,1,300,0.05,30,Completed,Credit Card,Desktop,6.0
+2219,2023-04-18,2023-04,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,2,300,0.15,15,Completed,PayPal,Mobile,6.0
+2220,2023-06-08,2023-06,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.1,30,Completed,PayPal,Mobile,6.0
+2221,2023-06-14,2023-06,8,Hassan Ali,Standard,UAE,101,Laptop,Electronics,2,1200,0.1,35,Completed,PayPal,Desktop,5.0
+2222,2023-04-22,2023-04,10,Jack Wilson,Standard,USA,104,Desk,Furniture,2,450,0.05,35,Completed,Debit Card,Mobile,5.0
+2223,2023-05-24,2023-05,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,1,150,0.0,15,Completed,Credit Card,Mobile,4.0
+2224,2023-04-08,2023-04,4,Daniel Lee,Standard,USA,104,Desk,Furniture,3,450,0.15,40,Completed,Debit Card,Desktop,7.0
+2225,2023-05-11,2023-05,9,Ivy Chen,Premium,Taiwan,102,Headphones,Electronics,3,150,0.1,35,Completed,Credit Card,Mobile,5.0
+2226,2023-06-27,2023-06,9,Ivy Chen,Premium,Taiwan,103,Office Chair,Furniture,3,300,0.1,35,Completed,Debit Card,Mobile,7.0
+2227,2023-05-09,2023-05,10,Jack Wilson,Standard,USA,104,Desk,Furniture,1,450,0.05,20,Completed,PayPal,Desktop,3.0
+2228,2023-05-06,2023-05,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,2,300,0.1,30,Cancelled,PayPal,Desktop,
+2229,2023-05-08,2023-05,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,2,800,0.15,40,Completed,Credit Card,Mobile,3.0
+2230,2023-06-08,2023-06,2,Bob Smith,Standard,Canada,103,Office Chair,Furniture,2,300,0.1,35,Completed,PayPal,Mobile,3.0
+2231,2023-04-29,2023-04,3,Carla Gomez,Standard,Mexico,101,Laptop,Electronics,3,1200,0.05,15,Completed,Debit Card,Desktop,6.0
+2232,2023-04-18,2023-04,1,Alice Johnson,Premium,USA,101,Laptop,Electronics,2,1200,0.1,35,Completed,Credit Card,Desktop,7.0
+2233,2023-05-12,2023-05,7,Grace Kim,Premium,South Korea,104,Desk,Furniture,2,450,0.05,40,Cancelled,PayPal,Desktop,
+2234,2023-04-05,2023-04,2,Bob Smith,Standard,Canada,105,Smartphone,Electronics,1,800,0.0,15,Completed,PayPal,Mobile,3.0
+2235,2023-05-13,2023-05,3,Carla Gomez,Standard,Mexico,103,Office Chair,Furniture,1,300,0.0,20,Completed,PayPal,Mobile,2.0
+2236,2023-04-25,2023-04,9,Ivy Chen,Premium,Taiwan,105,Smartphone,Electronics,2,800,0.05,40,Completed,Credit Card,Mobile,4.0
+2237,2023-05-14,2023-05,3,Carla Gomez,Standard,Mexico,104,Desk,Furniture,3,450,0.1,35,Completed,PayPal,Desktop,7.0
+2238,2023-04-12,2023-04,3,Carla Gomez,Standard,Mexico,105,Smartphone,Electronics,3,800,0.15,40,Completed,PayPal,Desktop,4.0
+2239,2023-05-01,2023-05,3,Carla Gomez,Standard,Mexico,102,Headphones,Electronics,2,150,0.1,15,Completed,PayPal,Mobile,5.0
+2240,2023-05-01,2023-05,6,Frank Miller,Standard,USA,103,Office Chair,Furniture,3,300,0.0,20,Completed,Credit Card,Desktop,7.0
+2241,2023-05-10,2023-05,8,Hassan Ali,Standard,UAE,103,Office Chair,Furniture,1,300,0.15,35,Completed,Debit Card,Desktop,7.0
+2242,2023-06-01,2023-06,5,Emma Brown,Premium,UK,103,Office Chair,Furniture,3,300,0.05,15,Cancelled,Credit Card,Mobile,
+2243,2023-04-28,2023-04,10,Jack Wilson,Standard,USA,103,Office Chair,Furniture,2,300,0.15,40,Completed,Credit Card,Desktop,7.0
+2244,2023-04-15,2023-04,9,Ivy Chen,Premium,Taiwan,104,Desk,Furniture,3,450,0.1,0,Cancelled,Credit Card,Desktop,
+2245,2023-04-15,2023-04,10,Jack Wilson,Standard,USA,105,Smartphone,Electronics,1,800,0.05,20,Completed,Debit Card,Desktop,5.0
+2246,2023-06-05,2023-06,10,Jack Wilson,Standard,USA,104,Desk,Furniture,1,450,0.15,40,Completed,PayPal,Mobile,3.0
+2247,2023-04-03,2023-04,10,Jack Wilson,Standard,USA,101,Laptop,Electronics,3,1200,0.15,35,Completed,PayPal,Mobile,7.0
+2248,2023-04-09,2023-04,1,Alice Johnson,Premium,USA,102,Headphones,Electronics,3,150,0.0,0,Completed,Debit Card,Desktop,7.0
+2249,2023-06-22,2023-06,2,Bob Smith,Standard,Canada,104,Desk,Furniture,1,450,0.1,25,Completed,Debit Card,Mobile,3.0
+2250,2023-06-09,2023-06,6,Frank Miller,Standard,USA,104,Desk,Furniture,2,450,0.15,25,Completed,Credit Card,Mobile,7.0
